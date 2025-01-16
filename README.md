@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🖥️ I've been coding in Python primarily for over 6 years
+- 📫 Check out my [Linkedin profile](https://www.linkedin.com/in/lakshadeep/)
